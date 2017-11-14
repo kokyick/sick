@@ -1,0 +1,91 @@
+{
+    "BACK_BUTTON_TEXT": "Back",
+    
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "USERNAME": "Username",
+    "PASSWORD": "Password",
+    "LOGIN": "Sign in",
+    "SIGNUP": "Sign up",
+    
+    "TAB1_TITLE": "Medication",
+    "TAB2_TITLE": "Profile",
+    "TAB3_TITLE": "Settings",
+    
+    "MAP_TITLE": "Map",
+    
+    "TUTORIAL_SKIP_BUTTON": "Skip",
+    "TUTORIAL_CONTINUE_BUTTON": "Continue",
+    
+    "TUTORIAL_SLIDE1_TITLE": "Welcome to the My Health App",
+    "TUTORIAL_SLIDE1_DESCRIPTION": "My Health App is a fully-featured health app to help you get through your sickness.",
+    
+    "TUTORIAL_SLIDE2_TITLE": "How to use My Health App",
+    "TUTORIAL_SLIDE2_DESCRIPTION": "Add your medication here and we will do the rest for you.",
+    
+    "TUTORIAL_SLIDE3_TITLE": "Getting Started",
+    "TUTORIAL_SLIDE3_DESCRIPTION": "Need help? Contact us and we will get back to you shortly",
+    
+    "TUTORIAL_SLIDE4_TITLE": "Ready to Start?",
+    
+    "WELCOME_INTRO": "The starting point for your good health",
+    
+    "SETTINGS_TITLE": "Settings",
+    "SETTINGS_OPTION1": "Option 1",
+    "SETTINGS_OPTION2": "Option 2",
+    "SETTINGS_OPTION3": "Option 3",
+    "SETTINGS_OPTION4": "Option 4",
+    
+    "SETTINGS_PROFILE_BUTTON": "Edit Profile",
+    
+    "SETTINGS_PAGE_PROFILE": "Edit Profile",
+
+    "NOTIFICATION_SETTING": "Notifications",
+    "VIBRATION_SETTING": "Vibration",
+    "SOUND_SETTING": "Sound",
+    "LANGUAGE_SETTING": "Language",
+    
+    "EN_SETTING": "English",
+    "CN_SETTING": "Chinese",
+
+    "WELCOME_TITLE": "Welcome",
+
+    "MEDICINE_TITLE": "Medicine",
+    
+    "LOGIN_TITLE": "Sign in",
+    "LOGIN_ERROR": "Unable to sign in. Please check your account information and try again.",
+    "LOGIN_BUTTON": "Sign in",
+    "SIGNUP_TITLE": "Sign up",
+    "SIGNUP_ERROR": "Unable to create account. Please check your account information and try again.",
+    "SIGNUP_BUTTON": "Sign up",
+    "LOGOUT_TITLE": "Logout",
+    
+    "LIST_MASTER_TITLE": "Items",
+    
+    "ITEM_CREATE_TITLE": "New Medication",
+    "ITEM_CREATE_CHOOSE_IMAGE": "Choose image",
+    "ITEM_CREATE_SCAN_QR": "Scan QR",
+    
+    "ITEM_NAME_PLACEHOLDER": "Name",
+    "ITEM_ABOUT_PLACEHOLDER": "Description",
+    
+    "ITEM_DAYS_PLACEHOLDER": "No.of days",
+    
+    "ITEM_FREQUENCY_PLACEHOLDER": "Times per day",
+    "ITEM_FREQUENCY_1": "1x per day",
+    "ITEM_FREQUENCY_2": "2x per day",
+    "ITEM_FREQUENCY_3": "3x per day",
+    "ITEM_FREQUENCY_4": "4x per day",
+    
+    "SELECT_OKAY": "Okay",
+    "SELECT_DISMISS": "Dismiss",
+    
+    "DONE_BUTTON": "Done",
+    "CANCEL_BUTTON": "Cancel",
+    "DELETE_BUTTON": "Delete",
+    
+    "CARDS_TITLE": "Social",
+    
+    "SEARCH_TITLE": "Search",
+    "SEARCH_PLACEHOLDER": "Search the items list, e.g. \"Donald Duck\""
+    }

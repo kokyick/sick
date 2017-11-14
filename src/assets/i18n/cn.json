@@ -1,0 +1,91 @@
+{
+    "BACK_BUTTON_TEXT": "Back",
+    
+    "NAME": "名字",
+    "EMAIL": "电子邮件",
+    "USERNAME": "用户名",
+    "PASSWORD": "密码",
+    "LOGIN": "登录",
+    "SIGNUP": "注册",
+    
+    "TAB1_TITLE": "药物",
+    "TAB2_TITLE": "轮廓",
+    "TAB3_TITLE": "设置",
+    
+    "MAP_TITLE": "地图",
+    
+    "TUTORIAL_SKIP_BUTTON": "跳跃",
+    "TUTORIAL_CONTINUE_BUTTON": "继续",
+    
+    "TUTORIAL_SLIDE1_TITLE": "欢迎来到我的健康应用程序",
+    "TUTORIAL_SLIDE1_DESCRIPTION": "我的健康应用程序是一个功能齐全的健康应用程序，以帮助您解决您的疾病。",
+    
+    "TUTORIAL_SLIDE2_TITLE": "如何使用我的健康应用程序",
+    "TUTORIAL_SLIDE2_DESCRIPTION": "在这里添加你的药物，我们将为你做其余的。",
+    
+    "TUTORIAL_SLIDE3_TITLE": "入门",
+    "TUTORIAL_SLIDE3_DESCRIPTION": "需要帮忙？联系我们，我们会尽快给您回复",
+    
+    "TUTORIAL_SLIDE4_TITLE": "准备开始？",
+    
+    "WELCOME_INTRO": "健康的起点",
+    
+    "SETTINGS_TITLE": "设置",
+    "SETTINGS_OPTION1": "Option 1",
+    "SETTINGS_OPTION2": "Option 2",
+    "SETTINGS_OPTION3": "Option 3",
+    "SETTINGS_OPTION4": "Option 4",
+    
+    "SETTINGS_PROFILE_BUTTON": "Edit Profile",
+    
+    "SETTINGS_PAGE_PROFILE": "Edit Profile",
+
+    "NOTIFICATION_SETTING": "通知",
+    "VIBRATION_SETTING": "振动",
+    "SOUND_SETTING": "声音",
+    "LANGUAGE_SETTING": "语言",
+    
+    "EN_SETTING": "英语",
+    "CN_SETTING": "中文",
+    
+    "WELCOME_TITLE": "欢迎",
+
+    "MEDICINE_TITLE": "药物",    
+    
+    "LOGIN_TITLE": "签到",
+    "LOGIN_ERROR": "Unable to sign in. Please check your account information and try again.",
+    "LOGIN_BUTTON": "签到",
+    "SIGNUP_TITLE": "注册",
+    "SIGNUP_ERROR": "Unable to create account. Please check your account information and try again.",
+    "SIGNUP_BUTTON": "注册",
+    "LOGOUT_TITLE": "登出",
+    
+    "LIST_MASTER_TITLE": "Items",
+    
+    "ITEM_CREATE_TITLE": "新的药物",
+    "ITEM_CREATE_CHOOSE_IMAGE": "选择图片",
+    "ITEM_CREATE_SCAN_QR": "扫描QR",
+    
+    "ITEM_NAME_PLACEHOLDER": "名字",
+    "ITEM_ABOUT_PLACEHOLDER": "描述",
+    
+    "ITEM_DAYS_PLACEHOLDER": "天数",
+    
+    "ITEM_FREQUENCY_PLACEHOLDER": "每天多少次",
+    "ITEM_FREQUENCY_1": "每天1次",
+    "ITEM_FREQUENCY_2": "每天2次",
+    "ITEM_FREQUENCY_3": "每天3次",
+    "ITEM_FREQUENCY_4": "每天4次",
+    
+    "SELECT_OKAY": "好的",
+    "SELECT_DISMISS": "解雇",
+    
+    "DONE_BUTTON": "完成",
+    "CANCEL_BUTTON": "取消",
+    "DELETE_BUTTON": "删除",
+    
+    "CARDS_TITLE": "社会",
+    
+    "SEARCH_TITLE": "搜索",
+    "SEARCH_PLACEHOLDER": "Search the items list, e.g. \"Donald Duck\""
+    }

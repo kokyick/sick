@@ -1,0 +1,42 @@
+<ion-content scroll="false">
+  <div class="splash-bg"></div>
+  <div class="splash-info">
+    <div class="splash-logo"></div>
+    <div class="splash-intro">
+      <span>John Loo <ion-icon name="create"></ion-icon></span><br/>
+      <span class="content-font">Last sick date: {{today}} </span><br/><br/>
+      <span style="float:left;" class="content-font"><ion-icon name="body"></ion-icon> 171cm</span><span style="float:right;" class="content-font"><ion-icon name="speedometer"></ion-icon> 60kg</span>
+      <!-- <ion-card>
+          <ion-card-header>
+            Annual Sick Count
+          </ion-card-header>
+          <ion-card-content>
+            <canvas #lineCanvas></canvas>
+          </ion-card-content>
+      </ion-card> -->
+      <span class="content-font"><ion-icon style="color:red;" name="heart"></ion-icon> 60 beats/sec</span>
+
+      <ion-card>
+        <ion-card-header>
+          <ion-icon name="stats"></ion-icon> Annual Sick Count
+        </ion-card-header>
+        <ion-card-content>
+          <canvas #barCanvas></canvas>
+        </ion-card-content>
+      </ion-card>
+<!--    
+      <ion-card>
+        <ion-card-header>
+          Sickness Causes
+        </ion-card-header>
+        <ion-card-content>
+          <canvas #doughnutCanvas></canvas>
+        </ion-card-content>
+      </ion-card> -->
+   
+
+    </div>
+  </div>
+  <div padding>
+  </div>
+</ion-content>
